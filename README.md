@@ -12,9 +12,13 @@ You'll be able to get your twitter feed up and running in a matter of minutes. J
 There are a number of arguments you can set for the feed:
 
 **consumerkey** - the key from Twitter Developers
+
 **consumersecret** - the secret from Twitter Developers
+
 **twitterID** - the ID/handle of the twitter account without an '@' symbol. E.g franhaselden
+
 **tweetsPulled** - this integer dictates how much data is retrieved. You can pull back many tweets, and then filter and sort through them if you like
+
 **tweetsOutput** - this value can be different to 'tweetsPulled', it's just the amount of tweets output onto the page. It cannot be more than 'tweetsPulled'
 
 ## Styling and Layout
